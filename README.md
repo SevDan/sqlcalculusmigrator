@@ -21,6 +21,7 @@ So, Precondition & Postcondition can be interpretated as expression function typ
 3.1. Execute expressions in inferenced order with preconditions & postconditions checks and log database changesets (as standard database migration tool)
 3.2. Show user inferenced order & compare with current configured (based on names/dates/etc.), show suggestions to correct it or warnings (as migrations linting tool)
 4. Backward migrations generator
+5. Locks/locks free algo for multiple instances running
 
 ## Needs
 
