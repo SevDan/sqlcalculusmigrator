@@ -28,3 +28,8 @@ So, Precondition & Postcondition can be interpretated as expression function typ
 1. Embedded Prolog-like solver for expressions order engine 
 2. SQL Syntax & Semantics parser
 3. Database connectors
+
+## Resources:
+
+https://arxiv.org/abs/1607.01993
+
